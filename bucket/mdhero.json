@@ -1,0 +1,16 @@
+{
+    "description": "A beautiful, native Markdown viewer",
+    "version":  "0.2.10",
+    "license":  "MIT",
+    "homepage":  "https://github.com/vaibhav-kakde-in/mdhero",
+    "url": "https://github.com/vaibhav-kakde-in/mdhero/releases/download/v0.2.10/MDHero_0.2.10_x64_en-US.msi",
+    "hash": "7b1f04648f575220dfc1476e16aa93d34bf8dd9b00a666e4b79c23ae0e82fd17",
+    "extract_dir": "PFiles\\MDHero",
+    "bin": "mdhero.exe",
+    "shortcuts": [
+        [
+            "mdhero.exe",
+            "MDHero"
+        ]
+    ]
+}
